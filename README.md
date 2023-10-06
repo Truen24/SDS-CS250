@@ -1,4 +1,9 @@
 # SDS-CS250
+-----------
+Adam Graves
+Leo Sullivan
+Mark Truong
+-----------
 Software Design Specification CS250 - Sullivan's Theater Ticketing System
 Inside the SDS contains:
 Brief overview of the system
