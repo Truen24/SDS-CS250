@@ -1,0 +1,1 @@
+This submission includes the SDS test plan updated master document. In the folder, there is an excel sheet with the 10 required test cases. Lastly, professor reveiwed our UML diagram and said it was fine as is, so we did not make any documented changes.
